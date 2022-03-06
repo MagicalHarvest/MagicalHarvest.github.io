@@ -1,0 +1,98 @@
+/*Master styles*/
+@media all and (max-width: 799px)
+{
+
+  .header-wrapper{
+      height: 60px !important;
+  }
+
+/* ------------- NAV BAR ------------- */
+
+.nav-left {
+     display: none !important;
+}
+
+
+  .nav-container{
+    font-size: 1.2em !important;
+    line-height: 1.5em;
+  }
+
+  ul {
+    margin-top: 5px !important;
+  }
+
+
+  .nav-language {
+    padding-top: 10px !important;
+    width: 5% !important;
+  }
+
+  .nav-language img{
+    padding-bottom: 10px;
+  }
+
+/* ------------- Social media icons ----------------- */
+
+.nav-right {
+   display: none !important;
+}
+
+
+/* ------------- MAIN ------------- */
+
+
+
+  .TitleImage img{
+    width: 30em !important;
+  }
+
+  .MainContainer{
+    width: 95% !important;
+  }
+
+  .FeatureItem{
+
+    height: auto !important;
+  }
+
+
+      .BaseText {
+        width: 100% !important;
+      }
+
+      .FeatureImage{
+        width: 100% !important;
+        float: center !important;
+        padding-top: 10px !important;
+      }
+
+
+      .CenterMainText{
+        width: 450px !important;
+      }
+
+
+      .TextAlignLeft{
+        font-size:  1.3em !important;
+        white-space:  inherit !important;
+      }
+
+
+
+
+
+/* ------------- Footer ------------- */
+
+
+
+
+
+
+
+
+
+
+
+
+}
