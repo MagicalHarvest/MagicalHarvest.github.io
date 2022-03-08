@@ -51,11 +51,10 @@ body{
 
 .nav-container{
   position: absolute;
-  font-size: 1.5em;
+  font-size: 1.3em;
   font-family: Arial, Helvetica, sans-serif;
   text-transform: uppercase;
   text-align: center;
-
   color: white;
   width: 100%;
   margin-left: auto;
@@ -83,31 +82,7 @@ body{
 
 
 /* ------------- NAV BAR ------------- */
-ul {
-  margin-top: 15px;
-}
 
-li {
-  display: list-item;
-  list-style-type: circle;
-}
-
-
-b{
-    color:  #e2d27e;
-}
-
-h1{
-    color: rgb(249, 194, 0);
-}
-
-h2{
-    color: rgb(249, 194, 0);
-}
-
-h3{
-    color: rgb(249, 194, 0);
-}
 
 
 .link{
@@ -141,20 +116,54 @@ h3{
   /* ------------- MAIN ------------- */
 
     p{
-      font-size: 1.4em;
       line-height: 1.4em;
     }
 
+main{
+
+  font-size: 1.2em;
+}
+
+
+ul {
+  margin-top: 15px;
+}
+
+li {
+  display: list-item;
+  list-style-type: circle;
+}
+
+
+b{
+    color:  #e2d27e;
+}
+
+h1{
+    font-size: 1.4em;
+    color: rgb(249, 194, 0);
+}
+
+h2{
+    font-size: 1.3em;
+    color: rgb(249, 194, 0);
+}
+
+h3{
+    font-size: 1.2em;
+    color: rgb(249, 194, 0);
+}
+
+
     .TextAlignLeft{
-      font-size:  1.4em;
       margin: auto;
       text-align: left;
-      width: 100%;
+      width: 98%;
+      padding: 5px;
     }
 
     .TextAlignLeft  b{
         color: rgb(249, 194, 0);
-
     }
 
     .DecoLine{
@@ -179,6 +188,19 @@ h3{
     }
 
 
+.blogImagesRight{
+
+      float: right;
+      padding: 10px;
+      border-radius: 30px;
+}
+
+.blogImagesLeft{
+
+      float: left;
+      padding: 10px;
+      border-radius: 30px;
+}
 
     .TitleImage {
       margin-bottom: 10px;
