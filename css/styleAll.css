@@ -246,12 +246,20 @@ h3{
 
     }
 
-      .Border{
+
+.trailerVideo
+{
+    border: 10px solid white;
+    box-shadow: 5px 5px  10px black;
+    width: 70%;
+}
+
+  .Border{
           border: 15px solid transparent;
           border-image: url("../images/border.png") 35.666667  round;
           box-shadow: 5px 5px  10px black;
 
-    }
+  }
 
 
 .SteamPart{
