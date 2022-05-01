@@ -202,6 +202,13 @@ h3{
       border-radius: 30px;
 }
 
+.FeatureVideoBlog
+{
+        float: right;
+     padding: 10px;
+    box-shadow: 5px 5px  10px black;
+    width: 50%;
+}
 
 .middleImage
 {
@@ -336,12 +343,35 @@ h3{
 
     }
 
+    .FeatureImageRect{
+      width: 38%;
+      object-fit: scale-down;
+      float: right;
+    }
+
     .FeatureImage img{
       width: 400px;
       border-radius: 20px;
       border: 10px solid transparent;
       border-image: url("../images/border.png") 35.666667 ;
     }
+
+
+    .FeatureImageRect img{
+      width: 600px;
+      border-radius: 20px;
+      border: 10px solid transparent;
+      border-image: url("../images/border.png") 35.666667 ;
+    }
+
+
+    .FeatureVideo
+    {
+        box-shadow: 5px 5px  10px black;
+        width: 170%;
+    }
+
+
 
     /* ------------- Cast ------------- */
 

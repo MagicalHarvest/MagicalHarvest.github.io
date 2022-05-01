@@ -85,7 +85,12 @@
 
 
 
-
+      .FeatureVideoBlog
+      {
+          position: relative !important;
+            float: center !important;
+                width:95% !important;
+      }
 
 /* ------------- Footer ------------- */
 
