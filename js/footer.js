@@ -1,7 +1,11 @@
 document.write(`
   <div class="Footer">
     <br>
-    <div>
+        <div class="nav-left-footer">
+          <u><a href="press/index.html" target="_blank">Presskit</a></u>
+     </div>
+
+    <div class="nav-middle-footer">
       MoonFlameGames<br>
        <a href = "mailto:moonflamegames@gmail.com">Email</a><br>
      </div>
