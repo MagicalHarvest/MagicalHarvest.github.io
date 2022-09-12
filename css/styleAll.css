@@ -1,7 +1,7 @@
 /*Master styles*/
 
 body{
-    background-image: url("../images/BG.png");
+    background-image: url("../images/BG_new.png");
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -105,12 +105,12 @@ body{
   }
 
   .link a:hover{
-    color: rgb(205, 70, 199);
+    color: rgb(150, 180, 240);
     text-decoration: underline;
   }
 
   .link a:active{
-    color: rgb(205, 70, 199);
+    color: rgb(160, 200, 255);
     text-decoration: none;
   }
 
@@ -204,6 +204,8 @@ h3{
       border-radius: 30px;
 }
 
+
+
 .FeatureVideoBlog
 {
         float: right;
@@ -257,7 +259,8 @@ h3{
       display: block;
       margin-left: auto;
       margin-right: auto;
-      width: 50%;
+      padding-right: 10em;
+      width: 65%;
 
     }
 
@@ -268,7 +271,7 @@ h3{
       background-repeat: no-repeat;
       background-size: cover;
       border-radius: 20px;
-
+      padding: 5px;
     }
 
 
@@ -280,9 +283,9 @@ h3{
 }
 
   .Border{
-          border: 15px solid transparent;
+        /*  border: 15px solid transparent;
           border-image: url("../images/border.png") 35.666667  round;
-          box-shadow: 5px 5px  10px black;
+          box-shadow: 5px 5px  10px black; */
 
   }
 
@@ -315,6 +318,7 @@ h3{
       padding-top: 10px;
       display: inline-block;
        text-align:left;
+
     }
 
 
@@ -327,12 +331,14 @@ h3{
       background:  url("../images/BG_text.png");
       background-repeat: no-repeat;
       background-size: cover;
+     border-radius: 20px;
     }
 
     .TextContainer{
 
-        padding: 10px;
-
+        padding: 25px;
+        margin-top: -20px;
+        margin-bottom: -20px;
     }
 
 .TextContainer h2{
@@ -424,12 +430,12 @@ h3{
     }
 
       a:hover{
-      color: rgb(205, 70, 199);
+    color: rgb(150, 180, 240);
       text-decoration: underline;
     }
 
       a:active{
-      color: rgb(205, 70, 199);
+    color: rgb(170, 200, 255);
       text-decoration: none;
     }
 

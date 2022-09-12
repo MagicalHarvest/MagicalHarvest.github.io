@@ -54,6 +54,7 @@
 
   .MainContainer{
     width: 95% !important;
+
   }
 
   .FeatureItem{
@@ -62,11 +63,23 @@
   }
 
 
+  .MiddleContainer{
+        padding-left: 0px !important;
+              width: 95% !important;
+  }
+
+
       .BaseText {
         width: 100% !important;
       }
 
       .FeatureImage{
+        width: 100% !important;
+        float: center !important;
+        padding-top: 10px !important;
+      }
+
+      .FeatureImageRect{
         width: 100% !important;
         float: center !important;
         padding-top: 10px !important;
