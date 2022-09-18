@@ -19,7 +19,7 @@ document.write(`
       </nav>
       <div class="nav-right">
 
-          <a href="https://discord.gg/gbJgFUJuFb" target="_blank"> <img src="images/DiscordIcon.png" alt="discord-icon"></img></a>
+          <a href="https://discord.gg/8tXMkrMDyy" target="_blank"> <img src="images/DiscordIcon.png" alt="discord-icon"></img></a>
           <a href="https://twitter.com/MagicalHarvest" target="_blank"><img src="images/TwitterIcon.png" alt="twitter-icon"></img></a>
 
         </div>
