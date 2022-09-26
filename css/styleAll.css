@@ -35,6 +35,8 @@ body{
 }
 
 
+
+
 .nav-language {
   width: 145px;
   height: 60px;
@@ -68,6 +70,9 @@ body{
   float: right;
   padding: 15px;
   position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: right;
+  color: white;
 }
 
 

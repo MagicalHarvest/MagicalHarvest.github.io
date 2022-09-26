@@ -20,7 +20,10 @@ document.write(`
 
           <a href="https://discord.gg/8tXMkrMDyy" target="_blank"> <img src="images/DiscordIcon.png" alt="discord-icon"></img></a>
           <a href="https://twitter.com/MagicalHarvest" target="_blank"><img src="images/TwitterIcon.png" alt="twitter-icon"></img></a>
-
+          <br>
+          <br>
+          <a href="https://www.patreon.com/moonflamegames" target="_blank"><img src="images/PatreonLogo.png" alt="patreon-icon"></img></a><br>
+          Support us on Patreon!
         </div>
     </div>
   `);
