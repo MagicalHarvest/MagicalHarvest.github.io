@@ -11,7 +11,8 @@
    ========================================================================== */
 
 html {
-  font-family: sans-serif; /* 1 */
+
+  font-family: Arial, Helvetica, sans-serif; /* 1 */
   line-height: 1.15; /* 2 */
   -ms-text-size-adjust: 100%; /* 3 */
   -webkit-text-size-adjust: 100%; /* 3 */
@@ -25,6 +26,12 @@ html {
  */
 
 body {
+  background-image: url("../../images/BG_new.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color:rgb(240, 240, 240);
   margin: 0;
 }
 
@@ -38,8 +45,15 @@ footer,
 header,
 nav,
 section {
+
+  background:  url("../../images/BG_text.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 10px;
+  margin: 15px;
   display: block;
 }
+
 
 /**
  * Correct the font size and margin on `h1` elements within `section` and
@@ -254,7 +268,6 @@ input,
 optgroup,
 select,
 textarea {
-  font-family: sans-serif; /* 1 */
   font-size: 100%; /* 1 */
   line-height: 1.15; /* 1 */
   margin: 0; /* 2 */

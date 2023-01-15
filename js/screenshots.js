@@ -22,11 +22,6 @@ document.write(`
   <a href="images/screenshots/Forest.png" target="_blank">
   <img src="images/screenshots/Forest.png" class="screenshots"></img>  </a>
 
-  <a href="images/otherImages/2022-07-30_AllDemoCrops.png" target="_blank">
-  <img src="images/otherImages/2022-07-30_AllDemoCrops.png" class="screenshots"></img>  </a>
-
-  <a href="images/screenshots/Forest.png" target="_blank">
-  <img src="images/screenshots/Forest.png" class="screenshots"></img>  </a>
 
   <a href="images/blog/2022-07-14-fish.png" target="_blank">
   <img src="images/blog/2022-07-14-fish.png" class="screenshots"></img>  </a>
