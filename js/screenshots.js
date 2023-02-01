@@ -1,6 +1,24 @@
 document.write(`
 <div class="DecoLine"></div>
 <div class="ScreenshotContainer">
+
+<a href="gifs/Animal_1.gif" target="_blank">
+<img src="gifs/Animal_1.gif"  alt="Animals" class="screenshots"></img>
+</a>
+
+<a href="gifs/Animal_2.gif" target="_blank">
+<img src="gifs/Animal_2.gif"  alt="Animals"  class="screenshots" ></img>
+</a>
+
+<a href="gifs/DaytimeTransition.gif" target="_blank">
+<img src="gifs/DaytimeTransition.gif"  alt="Daytime"   class="screenshots"></img>
+</a>
+
+<a href="images/blog/2023/2023_02_01_TownSmall.png" target="_blank">
+<img src="images/blog/2023/2023_02_01_TownSmall.png"  alt="Town"  class="screenshots"></img>
+</a>
+
+<br>
   <a href="images/featureImages/Magic.png" target="_blank">
   <img src="images/featureImages/Magic.png" class="screenshots"></img>  </a>
 
@@ -28,6 +46,8 @@ document.write(`
 
   <a href="images/blog/2022-07-14-illustration.png" target="_blank">
   <img src="images/blog/2022-07-14-illustration.png" class="screenshots"></img>  </a>
+
+
 </div>
 
 <div class="DecoLine"></div>
