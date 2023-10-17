@@ -29,16 +29,16 @@ document.write(`
 <img src="images/blog/2023/2023_02_01_TownSmall.png"  alt="Town"  class="screenshots"></img>
 </a>
 
-<a href="images/screenshots/Screenshot 2023-07-18 124603.png" target="_blank">
-<img src="images/screenshots/Screenshot 2023-07-18 124603.png"  alt="Magical Forest"  class="screenshots"></img>
+<a href="images/screenshots/Screenshot 2023-10-10 103807.png" target="_blank">
+<img src="images/screenshots/Screenshot 2023-10-10 103807.png"  alt="Magical Forest"  class="screenshots"></img>
 </a>
 
 <a href="images/screenshots/Screenshot 2023-07-18 124139.png" target="_blank">
 <img src="images/screenshots/Screenshot 2023-07-18 124139.png"  alt="Magical Forest"  class="screenshots"></img>
 </a>
 
-<a href="images/screenshots/Screenshot 2023-07-18 restoreMagic.png" target="_blank">
-<img src="images/screenshots/Screenshot 2023-07-18 restoreMagic.png"  alt="Magical Forest"  class="screenshots"></img>
+<a href="images/screenshots/Screenshot 2023-10-10_MagicForestChange.png" target="_blank">
+<img src="images/screenshots/Screenshot 2023-10-10_MagicForestChange.png"  alt="Magical Forest"  class="screenshots"></img>
 </a>
 
 <a href="images/screenshots/Screenshot 2023-07-20 074733.png" target="_blank">
