@@ -196,6 +196,15 @@ h3{
     }
 
 
+    
+.blogImageBase{
+
+  height: 250px;
+  padding: 10px;
+  border-radius: 30px;
+}
+
+
 .blogImagesRight{
 
       float: right;
