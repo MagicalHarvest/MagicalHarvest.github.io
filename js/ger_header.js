@@ -12,6 +12,7 @@ document.write(`
           <div class="link"><a href="ger_cast_bachelors.html">Bewohner</a></div>
           <!-- <div class="link"><a href="ger_farm.html">Farm</a></div>-->
           <div class="link"><a href="ger_blog_23.html">Blog</a></div>
+          <div class="link"><a href="Jobs.html">Jobs</a></div>
 
         </ul>
 
