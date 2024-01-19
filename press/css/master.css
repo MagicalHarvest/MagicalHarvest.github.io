@@ -22,6 +22,7 @@ body {
   margin: 0;
 }
 
+
 /* ---------------------------------------------------------- *\
  * Typography & colors.
 \* ---------------------------------------------------------- */
@@ -538,4 +539,12 @@ a:hover {
   ._team-fix-margin-top {
     margin-top: -15px;
   }
+}
+
+
+.ImageBase{
+
+  height: 150px;
+  padding: 5px;
+  border-radius: 20px;
 }
