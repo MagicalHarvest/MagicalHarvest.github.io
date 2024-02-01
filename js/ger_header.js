@@ -11,7 +11,7 @@ document.write(`
           <div class="link"><a href="ger_world.html">Welt</a></div>
           <div class="link"><a href="ger_cast_bachelors.html">Bewohner</a></div>
           <!-- <div class="link"><a href="ger_farm.html">Farm</a></div>-->
-          <div class="link"><a href="ger_blog_23.html">Blog</a></div>
+          <div class="link"><a href="ger_blog_24.html">Blog</a></div>
           <div class="link"><a href="ger_jobs.html">Jobs</a></div>
 
         </ul>
@@ -22,6 +22,7 @@ document.write(`
       <u><a href="press/product/ger_index.html" target="_blank">Presskit</a></u>
           <a href="https://discord.gg/8tXMkrMDyy" target="_blank"> <img src="images/DiscordIcon.png" alt="discord-icon"></img></a>
           <a href="https://twitter.com/MagicalHarvest" target="_blank"><img src="images/TwitterIcon.png" alt="twitter-icon"></img></a>
+          <img src="images/MoonFlameGames_512x512_white.png" alt="MoonFlameGames"></img>
           <br>
           <br>
           <a href="https://www.patreon.com/moonflamegames" target="_blank"><img src="images/PatreonLogo.png" alt="patreon-icon"></img></a><br>
